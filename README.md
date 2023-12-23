@@ -63,6 +63,5 @@ Cleaning and preparing the dataset for analysis honed my skills in data wranglin
 Conducting statistical tests to validate hypotheses or uncover correlations provided deeper insights into the relationships within the dataset. This statistical analysis helped in deriving meaningful conclusions.
 
 In conclusion, the Olympic data analysis journey using Python has been incredibly insightful. It has equipped me with practical experience in handling real-world datasets, extracting meaningful insights, and effectively communicating those findings through visualization and statistical analysis.
-
 I look forward to further exploring and applying these learnings to other domains and datasets in the future.
 
